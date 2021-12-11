@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Alvinser](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
+  [![Alvinser](<img src=Screenshot_2021-11-19-15-51-02-783_com.dts.freefireth.jpg>
  https://github.com/Amalser_v1 |  
 ----|
 [Its_me_Alvin](https://github.com/Amalser_v1)  |

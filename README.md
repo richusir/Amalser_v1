@@ -1,9 +1,9 @@
 <div align="center">
 
-## Its_me_Amal 
+## Its_me_ALVIN 
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/IMG-20210819-WA1189.jpg>
+  <img src=IMG_20211210_201128.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Amal
+### Its_me_ALVIN
 
 
 ### ⚠️ Warning! 
@@ -45,11 +45,11 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Amalser](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
+  [![Alvinser](<img src=Screenshot_2021-11-19-15-51-02-783_com.dts.freefireth.jpg>
  https://github.com/Amalser_v1 |  
 ----|
-[Its_me_Amal](https://github.com/Amalser_v1)  |
-Base, Bug Fixes, Modules | 
+[Its_me_Alvin](https://github.com/Amalser_v1)  |
+Base, Bug Fixes, Modules | 
   
     
 

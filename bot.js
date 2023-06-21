@@ -5,12 +5,12 @@ Issues
 Marketplace
 Explore
  
-@richusir 
-richusir
-/
-RICHUSER_B1
+@sachu xer
+luish kutty
+/luish kutty
+
 Public
-forked from richusir/RICHUSER_B1
+forked from sachu xer/Luish kutty
 0
 1121
 Code
@@ -21,9 +21,9 @@ Wiki
 Security
 Insights
 Settings
-RICHUSER_B1/bot.js /
-@richusir
-richusir Create bot.js
+luish kutty/bot.js /
+@sachu xer
+sachu xer Create bot.js
 Latest commit 21d64e4 on 9 Aug
  History
  11 contributors
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Richuser working perfectly 💘')
+            chalk.green.bold('luish kutty working perfectly 💘')
         );
     });
     
@@ -276,7 +276,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'RICHUSERBOT_🐱_[error] ' +
+                                await conn.sendMessage(conn.user.jid, '🎀 ⃟𝐔𝐁͢ 𝐒͛͟ᴀ̻ᴄ͛ؔʜ͍͠ᴜ♪𝐒͢ᴇ͡ʀ_🐱_[error] ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
